@@ -30,6 +30,11 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/primeng/resources/themes/lara-light-blue/theme.css",
+              "node_modules/primeng/resources/primeng.min.css",
+              "node_modules/primeicons/primeicons.css",
+              "node_modules/ng-accounting/assets/styles/core.scss",
+              "node_modules/ng-accounting/assets/styles/primeng/components.css",
               "src/styles.scss"
             ],
             "scripts": []
